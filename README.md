@@ -1,7 +1,7 @@
 <!-- HEADER -->
-<h1 align="center">✨ Aryan — AI Engineer & Automation Wizard ✨</h1>
+<h1 align="center">✨ Aryan ✨</h1>
 <p align="center">
-  I build AI Agents, SaaS Tools, Automations & High-Impact Systems 🚀
+  I build ML Models, AI Agents, SaaS Tools, Automations & High-Impact Systems 🚀
 </p>
 
 <!-- COOL WAVY BANNER -->
@@ -16,7 +16,7 @@
 - ⚡ Building scalable SaaS + bots  
 - 🔥 Love fast execution & problem-solving  
 - 🍃 Minimalist + clean code enjoyer  
-- 📩 Reach me: your@email.com  
+- 📩 Reach me: aryanpat160@gmail.com  
 
 ---
 

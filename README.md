@@ -84,7 +84,6 @@ Then paste:
 
 ---
 
-## 🌈 Aesthetic Wave Footer
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vanishing.gif" width="100%">
-</p>
+<div align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:8a2be2&height=100&section=footer" width="100%"/>
+</div>

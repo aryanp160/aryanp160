@@ -1,62 +1,76 @@
+<!-- Header -->
+<h1 align="center">Hi, I'm Aryan 👋✨</h1>
+<p align="center">
+  <b>AI Engineer • Automation Developer • Builder of Useful Things</b>
+</p>
+
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/cover.gif" width="80%" />
+</p>
+
+---
+
+## 🚀 About Me
+- 🔭 I build **AI agents, automation pipelines, and full-stack tools**
+- ⚡ I love creating things that save time & make money  
+- 🧠 Currently improving at: **LLMs, agents, system design**
+- 📫 Reach me at: **your-email@example.com**
+
+---
+
+## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,nextjs,tailwind,express,fastapi,flask,docker,git,github,linux,cloudflare" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
 <div align="center">
+    
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="150" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="120" />
 
-  <img src="https://media1.tenor.com/m/tC1dJ0IqF5YAAAAd/jellyfish-lights.gif" width="100%" style="border-radius: 10px;"/>
-
-  <h1 align="center">⚡ Aryan Pathak</h1>
-
-  <p align="center">
-    <b>Building Autonomous Agents & Next-Gen LLMs</b><br>
-    <i>"Turning data into decision-making."</i>
-  </p>
-
-  <a href="https://github.com/aryanp160">
-    <img src="https://github-readme-stats.vercel.app/api?username=aryanp160&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanp160&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" />
-  </a>
 </div>
 
-<br/>
+---
 
-### 🧠 The "God of AI" Stack
-I don't just train models; I build systems that think.
+## 🏗️ Featured Projects  
+### 🔹 **AI Automation Engine**
+A multi-agent workflow system with role delegation, message passing & monitoring UI.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/🦜🔗%20LangChain-1C3C3C?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-050505?style=for-the-badge&logo=siemens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-</div>
+### 🔹 **YouTube Automation Suite**
+Auto-video downloader, summarizer & Google Sheets integration.
 
-<br/>
+### 🔹 **Growth Dashboard**
+Full-stack dashboard for analytics & client tracking.
 
-### 🔮 Current Transmutations (Projects)
+> Want me to design custom **project cards with images**? I can add them.
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Multilingual RAG Agent** | *Autonomous agent tailored for Indic languages (Hindi/Tamil) capable of complex reasoning.* | `LangChain` `VectorDB` `Llama-3` |
-| **Neural Vision v2** | *Real-time object detection and synthesis engine.* | `YOLOv8` `OpenCV` `PyTorch` |
-| **"The Oracle"** | *Predictive market analysis bot using sentiment analysis on X (Twitter).* | `Transformers` `BeautifulSoup` |
+---
 
-<br/>
+## 🌐 Socials
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanp160&theme=tokyonight&hide_border=true" alt="Aryan's Streak" />
-</div>
+---
 
-<br/>
+## ✨ Fun Quote  
+> "Build something today your future self will thank you for."
 
-<div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:8a2be2&height=100&section=footer" width="100%"/>
-</div>
+---
+
+# Want me to:
+✅ Add **animated waves / gradients**?  
+✅ Add **3D stats card**?  
+✅ Add **GIFs**?  
+✅ Make it **dark, neon, pastel, or minimal**?  
+✅ Add **badges for skills & tools**?  
+
+Just tell me **your vibe**, and I’ll craft a perfect aesthetic GitHub profile for you.

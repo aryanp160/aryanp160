@@ -16,7 +16,7 @@
 - ⚡ Building scalable SaaS + bots  
 - 🔥 Love fast execution & problem-solving  
 - 🍃 Minimalist + clean code enjoyer  
-- 📩 Reach me: your@email.com  
+- 📩 Reach me: aryanpat160@gmail.com  
 
 ---
 

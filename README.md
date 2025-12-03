@@ -39,14 +39,21 @@
 
 # ⚡ Featured Projects
 
+## 🔹 TRINETRA — AI Crowd Safety System
+> Real-time AI system that analyzes live crowd footage using ONNX Runtime, computes a Chaos Score (Density, Flow, Surge), and dispatches alerts to ground volunteers via a mobile-first app.
+
+---
+
+## 🔹 ADST 2.0 — Secure Federated Learning
+> Federated Learning with secure aggregation, differential privacy, Ed25519/X25519 cryptography, AES-GCM encryption, and a Streamlit “Mission Control” dashboard for monitoring distributed training.
+
+---
+
+## 🔹 Ardy — AI Task Router
+> A browser-driven AI automation engine that classifies user tasks and routes them to the best AI service (ChatGPT, Claude, Gemini, Perplexity) using Playwright. No API keys required. Fully deployable on Railway.
+
 ### 🔹 **AI Automation Engine**
 Multi-agent system with role routing + monitoring dashboard
-
-### 🔹 **YT Automation Suite**
-Download → Summarize → Push to Sheets
-
-### 🔹 **Business Dashboard**
-Analytics + Automations + Scheduling
 
 ---
 

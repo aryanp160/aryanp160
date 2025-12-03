@@ -64,13 +64,6 @@ Full-stack dashboard for analytics & client tracking.
 ## ✨ Fun Quote  
 > "Build something today your future self will thank you for."
 
----
-
-# Want me to:
-✅ Add **animated waves / gradients**?  
-✅ Add **3D stats card**?  
-✅ Add **GIFs**?  
-✅ Make it **dark, neon, pastel, or minimal**?  
-✅ Add **badges for skills & tools**?  
+ 
 
 Just tell me **your vibe**, and I’ll craft a perfect aesthetic GitHub profile for you.

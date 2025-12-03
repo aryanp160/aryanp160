@@ -2,7 +2,7 @@
 
   <img src="https://media1.tenor.com/m/tC1dJ0IqF5YAAAAd/jellyfish-lights.gif" width="100%" style="border-radius: 10px;"/>
 
-  <h1 align="center">⚡ Aryan | Architect of Intelligence</h1>
+  <h1 align="center">⚡ Aryan Pathak</h1>
 
   <p align="center">
     <b>Building Autonomous Agents & Next-Gen LLMs</b><br>

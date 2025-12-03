@@ -1,58 +1,90 @@
-<h1 align="center">Hi, I'm Aryan 👋✨</h1>
+<!-- HEADER -->
+<h1 align="center">✨ Aryan — AI Engineer & Automation Wizard ✨</h1>
 <p align="center">
-  <b>AI Engineer • Automation Developer • Full-Stack Builder</b>
+  I build AI Agents, SaaS Tools, Automations & High-Impact Systems 🚀
+</p>
+
+<!-- COOL WAVY BANNER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
 ---
 
-## 🚀 About Me  
-- 🔭 Building: AI agents, automations & SaaS tools  
-- ⚡ Passion: systems that save time & scale  
-- 🌱 Learning: advanced LLM workflows & backend architecture  
-- 📬 Contact:aryanpat160@gmail.com  
+## 🚀 About Me
+- 🧠 AI + Automation Developer  
+- ⚡ Building scalable SaaS + bots  
+- 🔥 Love fast execution & problem-solving  
+- 🍃 Minimalist + clean code enjoyer  
+- 📩 Reach me: your@email.com  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,fastapi,tailwind,docker,git,github,linux,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,fastapi,express,tailwind,docker,linux,git,github,cloudflare" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (Working – No Streaks)
-
-<div align="center">
-
-<!-- Main Stats -->
-<img 
-  src="https://github-readme-stats-god-tier.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_rank=true" 
-  height="160"
-/>
-
-<br/>
-
-<!-- Top Languages -->
-<img 
-  src="https://github-readme-stats-god-tier.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" 
-  height="120"
-/>
-
-</div>
-
----
-
-## 🌟 Featured Projects  
-- **AI Automation Engine** — multi-agent pipelines with monitoring UI  
-- **YouTube Automation Suite** — auto-download ► summarize ► sheet-sync  
-- **Micro SaaS Tools** — browser extensions + API bots  
-
----
-
-## 🌐 Connect With Me  
+# 🏆 GitHub Trophy (Always Works)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=twitter" width="40"/>
-  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
+
+# 📊 GitHub Metrics (the strongest stats engine)
+> **These ALWAYS show**, unlike other GitHub Stats.
+
+Add this after enabling the GitHub App:  
+👉 https://github.com/marketplace/actions/metrics
+
+Then paste:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/github-metrics.svg" />
+</p>
+
+---
+
+# 🌐 Activity Graph (Working & Beautiful)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+</p>
+
+---
+
+# 📦 Profile Summary Card (Another working stats alternative)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyo_dark" />
+</p>
+
+---
+
+## 📚 Top Languages (Never fails)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-ffd43b?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-2d79c7?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+---
+
+# ⚡ Featured Projects
+## 🔹 AI Automation Engine
+> Multi-agent system with role routing + monitoring dashboard
+
+## 🔹 YT Automation Suite  
+> Download → Summarize → Push to Sheets
+
+## 🔹 Business Dashboard  
+> Analytics + Automations + Scheduling
+
+---
+
+## 🌈 Aesthetic Wave Footer
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vanishing.gif" width="100%">
+</p>

@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Building scalable backend systems, distributed applications, and AI-powered software.
+  Building scalable backend systems, distributed applications, and production-grade software.
 </p>
 
 <!-- RAINBOW -->
@@ -24,7 +24,7 @@
 * ⚙️ Interested in **Distributed Systems**, **Cloud Infrastructure**, **System Design**, and **Machine Learning**
 * 🔐 Enjoy solving engineering challenges involving **secure networking**, **backend architecture**, and **high-performance systems**
 * 📚 Continuously improving my skills in **Data Structures & Algorithms** and modern backend technologies
-* 🚀 Building projects focused on **backend engineering**, **AI-powered applications**, and **distributed systems**
+* 🚀 Building projects focused on **backend engineering**, **AI-powered applications**, and **real-world problem solving**
 * 📩 **Reach me:** **[aryanpat160@gmail.com](mailto:aryanpat160@gmail.com)**
 
 ---
@@ -73,30 +73,25 @@
 
 ---
 
-# 📌 Focus Areas
-
-* 🏗️ **Backend Engineering**
-* 🌐 **Distributed Systems**
-* ☁️ **Cloud Infrastructure**
-* 📐 **System Design**
-* 🤖 **Machine Learning**
-* 🔒 **Secure Networking**
-
----
 
 # 📫 Connect
 
 <p align="center">
   <a href="https://github.com/aryanp160">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/aryan-pathak-69a7b22a3">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="mailto:aryanpat160@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="45"/>
   </a>
 </p>
+
 
 <!-- FOOTER -->
 
